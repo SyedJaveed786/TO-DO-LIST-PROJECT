@@ -97,10 +97,10 @@ document.getElementById('container').innerHTML = '';
 });
 });
 </script>
+</body>
+</html>
+```
 
 ### OUTPUT:
 ![Screenshot 2024-07-08 215429](https://github.com/SyedJaveed786/TO-DO-LIST-PROJECT/assets/106874713/81b914d5-40fe-4410-a33b-d01e8b5d30f8)
 
-</body>
-</html>
-```
